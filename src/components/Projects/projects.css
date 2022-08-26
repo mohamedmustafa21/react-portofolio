@@ -1,0 +1,14 @@
+.card {
+    background-color: transparent;
+    border-radius: 20px;
+    text-align: center;
+}
+.link-project{
+    text-decoration: none;
+    color: rgb(219, 112, 112);
+    font-weight: 700;
+
+}
+.link-project:hover{
+    color: rgb(219, 112, 112)
+}

@@ -1,0 +1,23 @@
+body{
+    background-image: url(../../assets/banner-bg.png);
+}
+
+.left-side{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sub-title{
+    border: solid rgb(255, 255, 255) 2px;
+    padding: 10px;
+    background-color: rgb(148, 75, 100);
+    font-size: 1rem;
+    font-weight: 400;
+    
+
+}
+.title{
+    margin-top: 20px;
+    font-size: 3rem !important;
+}
